@@ -12,15 +12,16 @@ La carpeta `latex` contiene los archivos necesarios para generar el poster usand
 * TeX Live version: 2024
 * Main document: main.tex
 
-Nota: Debería ser posible compilar el proyecto en forma local. Sin embargo, esta alternativa no fue probada y lamentablemente no tenemos recursos humanos para brindar soporte ténico al respecto.
+Nota: Debería ser posible compilar el proyecto en forma local. Sin embargo, esta alternativa no fue probada y **no** brindaremos soporte ténico en este aspecto.
 
 ### PowerPoint
 
-Simplemete ingreasa a la carpeta `powerpoint`, descarga el archivo `amaru_template.pptx`, abre PowerPoint, y edita el template.
+Simplemente ingresa a la carpeta `powerpoint`, descarga el archivo `amaru_template.pptx`, abre PowerPoint y edita el template.
 
 ## Indicaciones
 
-Los posters deben ser impresos en tamanño A0. La organización proveerá materiales para la sujeción de los mismos.
+* Es responsabilidad de los presentadores traer sus posters **impresos** en tamanño A0.
+* La organización sólo proveerá materiales para la sujeción de los mismos.
 
 ## Problemas
 
