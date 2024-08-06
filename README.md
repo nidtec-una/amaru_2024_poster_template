@@ -18,6 +18,10 @@ Nota: Debería ser posible compilar el proyecto en forma local. Sin embargo, est
 
 Simplemente ingresa a la carpeta `powerpoint`, descarga el archivo `amaru_poster_2024.pptx`, abre PowerPoint y edita el template.
 
+### Keynote
+
+Para usuarios Mac, se encuentra disponible el template en formato `key`. Ingrese a la carpeta `keynote`, descarga el archivo `amaru_poster_2024.key`, abre Keynote y edita el template.
+
 ## Indicaciones
 
 * Es responsabilidad de los presentadores traer sus posters **impresos** en tamanño A0.
