@@ -16,7 +16,7 @@ Nota: Debería ser posible compilar el proyecto en forma local. Sin embargo, est
 
 ### PowerPoint
 
-Simplemente ingresa a la carpeta `powerpoint`, descarga el archivo `amaru_template.pptx`, abre PowerPoint y edita el template.
+Simplemente ingresa a la carpeta `powerpoint`, descarga el archivo `amaru_poster_2024.pptx`, abre PowerPoint y edita el template.
 
 ## Indicaciones
 
